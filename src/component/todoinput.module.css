@@ -1,0 +1,10 @@
+.inputDiv{
+    width:60%;
+    margin: auto;
+
+}
+
+.inputDiv>input{
+    width:30%;
+    margin-left: 250px;
+}

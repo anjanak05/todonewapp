@@ -1,0 +1,7 @@
+.listDiv{
+
+    margin: auto;
+    width: 23%;
+    display: flex;
+    justify-content: space-between;
+}
